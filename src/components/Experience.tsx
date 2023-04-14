@@ -1,5 +1,6 @@
 import React from "react";
-import { PresentationControls, Stage } from "@react-three/drei";
+import { PresentationControls, Stage } from "@react-three/drei"
+
 
 const Experience = () => {
 	return (
