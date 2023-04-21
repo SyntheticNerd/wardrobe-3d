@@ -1,5 +1,6 @@
 {
 	"name": "wardrobe-3d",
+	"homepage": "http://syntheticnerd.github.io/wardrobe-3d",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
@@ -15,11 +16,14 @@
 		"@react-three/fiber": "^8.12.0",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
+		"styled-components": "^5.3.9",
 		"three": "^0.151.3"
 	},
 	"devDependencies": {
 		"@types/react": "^18.0.28",
 		"@types/react-dom": "^18.0.11",
+		"@types/styled-components": "^5.1.26",
+		"@types/three": "^0.150.2",
 		"@vitejs/plugin-react": "^3.1.0",
 		"gh-pages": "^5.0.0",
 		"typescript": "^4.9.3",
